@@ -1,2 +1,2 @@
 # hrinfinity.github.io
-startpage. ty stpg.tkl
+ty stpg.tkl
